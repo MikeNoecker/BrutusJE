@@ -49,11 +49,13 @@ None at the moment
 
 ## Roadmap
 
-- Performance Upgrade: Threading support, other optomizations
+- Performance Upgrade: Thread pool queue update, other optomizations
 
 - Advanced Filtering: View the data you need and weed out the junk
 
 - DNS mode
+
+
 ## Related
 
 Here is the boiled down python version
